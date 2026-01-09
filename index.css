@@ -29,7 +29,7 @@ body {
 }
 
 .titulo {
-  font-size: 6.5em;
+  font-size: 2em;
   color: #FFD700;
   text-shadow: 1px 1px 8px #000;
   margin-bottom: 20px;
@@ -61,12 +61,12 @@ td {
 }
 
 .ficha p {
-  font-size: 2.5em;        /* aumenta el tamaño relativo */
+  font-size: 1em;        /* aumenta el tamaño relativo */
   margin: 5px 0 0;         /* espacio arriba */
 }
 
 .ficha p a {
-  font-size: 2.5em;        /* asegura que el enlace también sea grande */
+  font-size: 1em;        /* asegura que el enlace también sea grande */
   text-decoration: none;
   color: #ffffff;
   font-weight: bold;
@@ -93,7 +93,7 @@ td {
 }
 
 #ficha-container pre {
-  font-size: 1.5em;   /* tamaño legible del texto */
+  font-size: 1em;   /* tamaño legible del texto */
   color: #ffffff;
   text-shadow: 
     -1px -1px 0 black,
@@ -114,7 +114,7 @@ td {
 }
 
 #ficha-container p {
-  font-size: 1.5em;
+  font-size: 1em;
   color: #ffffff;
   text-shadow: 
     -1px -1px 0 black,
