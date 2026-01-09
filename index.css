@@ -77,3 +77,35 @@ td {
     -1px  1px 0 black,
      1px  1px 0 black;
 }
+
+#ficha-container {
+  position: absolute;
+  top: 150px;       /* debajo del título */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;       /* ancho del área de ficha */
+  height: 70%;      /* alto del área */
+  overflow-y: auto; /* scroll independiente */
+  background: transparent;
+  text-align: center;
+}
+
+#ficha-container img {
+  max-width: 300px;   /* controla tamaño de imagen */
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 15px #0f3460;
+  margin-bottom: 20px;
+}
+
+#ficha-container p {
+  font-size: 1.5em;
+  color: #ffffff;
+  text-shadow: 
+    -1px -1px 0 black,
+     2px -1px 0 black,
+    -1px  2px 0 black,
+     2px  2px 0 black;
+}
