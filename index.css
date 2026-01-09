@@ -9,9 +9,9 @@ body {
   background-position: center center;
   text-shadow: 
     -1px -1px 0 black,
-     2px -1px 0 black,
-    -1px  2px 0 black,
-     2px  2px 0 black;
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
 }
 
 #fichas-container {
@@ -56,8 +56,8 @@ td {
   margin: 0 auto 10px;
   border-radius: 8px;
   box-shadow: 0 0 15px #0f3460;
-  width: 200px;   /* ajusta el tamaño */
-  height: 200px;
+  width: 300px;   /* ajusta el tamaño */
+  height: 300px;
 }
 
 .ficha p {
@@ -73,7 +73,7 @@ td {
   transition: color 0.3s;
   text-shadow: 
     -1px -1px 0 black,
-     2px -1px 0 black,
-    -1px  2px 0 black,
-     2px  2px 0 black;
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
 }
