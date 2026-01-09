@@ -5,10 +5,10 @@ fetch('index.json')
     const tabla = document.getElementById('tabla');
     let fila;
 
-    let celdasPorFila = 5;
-    if (window.innerWidth < 600) {
-      celdasPorFila = 2;
-    }
+    let celdasPorFila = 2;
+    //if (window.innerWidth < 600) {
+      //#celdasPorFila = 2;
+    //}
 
     for (let i = 0; i < lista.length; i++) {
       if (i % celdasPorFila === 0) {
