@@ -8,10 +8,10 @@ body {
   background-size: cover;
   background-position: center center;
   text-shadow: 
-    -3px -3px 0 black,
-     3px -3px 0 black,
-    -3px  3px 0 black,
-     3px  3px 0 black;
+    -1.5px -1.5px 0 black,
+     1.5px -1.5px 0 black,
+    -1.5px  1.5px 0 black,
+     1.5px  1.5px 0 black;
 }
 
 #fichas-container {
@@ -29,9 +29,9 @@ body {
 }
 
 .titulo {
-  font-size: 7.5em;
+  font-size: 6.5em;
   color: #FFD700;
-  text-shadow: 3px 3px 10px #000;
+  text-shadow: 1.5px 1.5px 8.5px #000;
   margin-bottom: 20px;
 }
 
@@ -72,8 +72,8 @@ td p a {
   font-weight: bold;
   transition: color 0.3s;
   text-shadow: 
-    -3px -3px 0 black,
-     3px -3px 0 black,
-    -3px  3px 0 black,
-     3px  3px 0 black;
+    -1.5px -1.5px 0 black,
+     1.5px -1.5px 0 black,
+    -1.5px  1.5px 0 black,
+     1.5px  1.5px 0 black;
 }
