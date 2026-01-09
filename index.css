@@ -8,10 +8,10 @@ body {
   background-size: cover;
   background-position: center center;
   text-shadow: 
-    -1.5px -1.5px 0 black,
-     1.5px -1.5px 0 black,
-    -1.5px  1.5px 0 black,
-     1.5px  1.5px 0 black;
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
 }
 
 #fichas-container {
@@ -31,7 +31,7 @@ body {
 .titulo {
   font-size: 6.5em;
   color: #FFD700;
-  text-shadow: 1.5px 1.5px 8.5px #000;
+  text-shadow: 1px 1px 8px #000;
   margin-bottom: 20px;
 }
 
@@ -56,8 +56,8 @@ td img {
   margin: 0 auto 10px;
   border-radius: 8px;
   box-shadow: 0 0 15px #0f3460;
-  width: 100px;
-  height: auto;
+  width: 200px;
+  height: 200px;
 }
 
 td p {
@@ -72,8 +72,8 @@ td p a {
   font-weight: bold;
   transition: color 0.3s;
   text-shadow: 
-    -1.5px -1.5px 0 black,
-     1.5px -1.5px 0 black,
-    -1.5px  1.5px 0 black,
-     1.5px  1.5px 0 black;
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
 }
