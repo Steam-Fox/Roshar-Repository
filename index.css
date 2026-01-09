@@ -1,12 +1,12 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   color: #ffffff;
-  text-align: center;
   margin: 0;
   padding: 20px;
   background-image: url("./fondo.jpg");
   background-size: cover;
   background-position: center center;
+  background-atachment: fixed;
   text-shadow: 
     -1px -1px 0 black,
      1px -1px 0 black,
@@ -29,7 +29,7 @@ body {
 }
 
 .titulo {
-  font-size: 2em;
+  font-size: 10em;
   color: #FFD700;
   text-shadow: 1px 1px 8px #000;
   margin-bottom: 20px;
@@ -61,12 +61,12 @@ td {
 }
 
 .ficha p {
-  font-size: 1em;        /* aumenta el tamaño relativo */
+  font-size: 2em;        /* aumenta el tamaño relativo */
   margin: 5px 0 0;         /* espacio arriba */
 }
 
 .ficha p a {
-  font-size: 1em;        /* asegura que el enlace también sea grande */
+  font-size: 2em;        /* asegura que el enlace también sea grande */
   text-decoration: none;
   color: #ffffff;
   font-weight: bold;
@@ -93,7 +93,7 @@ td {
 }
 
 #ficha-container pre {
-  font-size: 1em;   /* tamaño legible del texto */
+  font-size: 2em;   /* tamaño legible del texto */
   color: #ffffff;
   text-shadow: 
     -1px -1px 0 black,
@@ -114,7 +114,7 @@ td {
 }
 
 #ficha-container p {
-  font-size: 1em;
+  font-size: 2em;
   color: #ffffff;
   text-shadow: 
     -1px -1px 0 black,
