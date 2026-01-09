@@ -17,10 +17,13 @@
 </style>
 </head>
 <body>
-  <div id="contenido"></div>
+  <h1 class="titulo">Ficha seleccionada</h1>
+
+  <div id="ficha-container">
+    <div id="contenido"></div>
+  </div>
 
   <script>
-    // Leer parámetro "nombre" de la URL
     const params = new URLSearchParams(window.location.search);
     const nombre = params.get('nombre');
 
@@ -28,7 +31,7 @@
       fetch('./fichas/' + nombre + '.txt')
         .then(r => r.text())
         .then(texto => {
-        document.getElementById('contenido').innerHTML = "<pre>" + texto + "</pre>";
+          document.getElementById('contenido').innerHTML = "<pre>" + texto + "</pre>";
         });
     }
   </script>
