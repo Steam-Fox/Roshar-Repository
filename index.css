@@ -60,7 +60,13 @@ td img {
   height: auto;
 }
 
+td p {
+  font-size: 1.2em;        /* aumenta el tamaño relativo */
+  margin: 5px 0 0;         /* espacio arriba */
+}
+
 td p a {
+  font-size: 1.2em;        /* asegura que el enlace también sea grande */
   text-decoration: none;
   color: #FFD700;
   font-weight: bold;
