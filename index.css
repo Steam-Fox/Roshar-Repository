@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  color: #eeeeee;
+  color: #ffffff;
   text-align: center;
   margin: 0;
   padding: 20px;
@@ -9,9 +9,9 @@ body {
   background-position: center center;
   text-shadow: 
     -1px -1px 0 black,
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black;
+     2px -1px 0 black,
+    -1px  2px 0 black,
+     2px  2px 0 black;
 }
 
 #fichas-container {
@@ -51,13 +51,13 @@ td {
   vertical-align: middle;
 }
 
-td img {
-  display: inline-block;
+.ficha img {
+  display: block;
   margin: 0 auto 10px;
   border-radius: 8px;
   box-shadow: 0 0 15px #0f3460;
-  width: 200px;
-  height: 200px;
+  width: 120px;   /* ajusta el tamaño */
+  height: auto;
 }
 
 td p {
@@ -68,12 +68,12 @@ td p {
 td p a {
   font-size: 2.5em;        /* asegura que el enlace también sea grande */
   text-decoration: none;
-  color: #eeeeee;
+  color: #ffffff;
   font-weight: bold;
   transition: color 0.3s;
   text-shadow: 
     -1px -1px 0 black,
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black;
+     2px -1px 0 black,
+    -1px  2px 0 black,
+     2px  2px 0 black;
 }
