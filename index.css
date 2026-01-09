@@ -14,7 +14,21 @@ body {
      1px  1px 0 black;
 }
 
-título {
+#fichas-container {
+  position: absolute;      /* se coloca sobre el fondo */
+  top: 150px;              /* ajusta según el título */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 90%;              /* ancho del área de fichas */
+  height: 70%;             /* alto del área de fichas */
+  overflow-y: auto;        /* scroll vertical independiente */
+  overflow-x: hidden;      /* evita scroll horizontal */
+  background: transparent; /* invisible, no tapa el fondo */
+}
+
+.titulo {
   font-size: 7.5em;
   color: #FFD700;
   text-shadow: 2px 2px 8px #000;
