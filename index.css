@@ -85,11 +85,24 @@ td {
   right: 0;
   bottom: 0;
   margin: auto;
-  width: 80%;       /* ancho del área de ficha */
+  width: 80%;       /* ancho del área */
   height: 70%;      /* alto del área */
   overflow-y: auto; /* scroll independiente */
   background: transparent;
   text-align: center;
+}
+
+#ficha-container pre {
+  font-size: 1.5em;   /* tamaño legible del texto */
+  color: #ffffff;
+  text-shadow: 
+    -1px -1px 0 black,
+     2px -1px 0 black,
+    -1px  2px 0 black,
+     2px  2px 0 black;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 #ficha-container img {
