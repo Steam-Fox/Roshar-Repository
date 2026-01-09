@@ -1,0 +1,45 @@
+name: Generar index.json
+
+on:
+  push:
+    branches:
+      - '**'   # ejecuta en todas las ramas
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # permite commit/push
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generar index.json (Python, seguro con espacios)
+        run: |
+          python3 - << 'PY'
+          import os, json
+
+          base_dir = 'fichas'
+          nombres = set()
+
+          for dirpath, dirnames, filenames in os.walk(base_dir):
+            for fname in filenames:
+              lower = fname.lower()
+              if lower.endswith('.txt') or lower.endswith('.jpg'):
+                nombre_sin_ext = os.path.splitext(fname)[0]
+                nombres.add(nombre_sin_ext)
+
+          index = sorted(nombres)
+
+          with open('index.json', 'w', encoding='utf-8') as f:
+            json.dump(index, f, ensure_ascii=False, indent=2)
+          PY
+
+      - name: Commit y push index.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "Actualizar index.json automáticamente" || echo "Sin cambios"
+          git push
