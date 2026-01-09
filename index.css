@@ -56,16 +56,16 @@ td {
   margin: 0 auto 10px;
   border-radius: 8px;
   box-shadow: 0 0 15px #0f3460;
-  width: 120px;   /* ajusta el tamaño */
-  height: auto;
+  width: 200px;   /* ajusta el tamaño */
+  height: 200px;
 }
 
-td p {
+.ficha p {
   font-size: 2.5em;        /* aumenta el tamaño relativo */
   margin: 5px 0 0;         /* espacio arriba */
 }
 
-td p a {
+.ficha p a {
   font-size: 2.5em;        /* asegura que el enlace también sea grande */
   text-decoration: none;
   color: #ffffff;
