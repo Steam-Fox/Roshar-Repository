@@ -30,7 +30,7 @@ body {
 }
 
 .titulo {
-  font-size: 10em;
+  font-size: 6.5em;
   color: #FFD700;
   text-shadow: 1px 1px 8px #000;
   margin-bottom: 20px;
@@ -94,7 +94,7 @@ td {
 }
 
 #ficha-container pre {
-  font-size: 1.5em;   /* tamaño legible del texto */
+  font-size: 1.9em;   /* tamaño legible del texto */
   color: #ffffff;
   text-shadow: 
     -1px -1px 0 black,
@@ -115,7 +115,7 @@ td {
 }
 
 #ficha-container p {
-  font-size: 2.2em;
+  font-size: 2.5em;
   color: #ffffff;
   text-shadow: 
     -1px -1px 0 black,
