@@ -1,4 +1,3 @@
-
 *᪄    l ͜͡ ͠l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l︩︪ ͜͡ ͠l︩︪l ͜͡ l     ꒰͜͡ ★ ͜͡꒱    l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪ ͜͡ ͠l︩︪l ͜͡ l   ᪃*
 
  *`ꐚ. 𝗙𝐈𝐂𝐇𝐀 𝗗𝐄 𝗣𝐄𝐑𝐒𝐎𝐍𝐀𝐉𝐄 /!?`*
@@ -27,8 +26,8 @@ pero como caminante que es no tiene pulso, temperatura ni sentidos aumentados
 > .🖋️  
 *Adaptación:* al iniciar un combate esta habilidad escanea los enemigos en un radio de 20 metros, utilizando esta información convierte fulgor automáticamente en puntos de estadística que se reparten inteligentemente, cuando pasen 10 turnos los puntos usados se pierden volviendo a su estado original teniendo que gastar nuevamente fulgor si quiere recuperarlos (si se integra otro enemigo se considera nuevo combate permitiendo balancear nuevamente las estadísticas, una emboscada también cuenta como inició de compate, si se inica un combate pero no hay ningún enemigo en 20 metros todas las estads se ponen en modo huida)
 
- *Ei tänään* (No hoy): doblega y niega la muerte del usuario bajo cualquier costo, su rc sera incapaz de bajar a 0 siempre que tenga fulgor o resistencia. 
-cualquier ataque que se dirija y supere a su resistencia de condiciones, se cobrara el excedente de su fulgor, si su fulgor llega a 0 se cobra de su resistencia general, también permite usar Fulgor para recuperar resistencia comun de forma manual
+ Ei tänään (No hoy): doblega y niega la muerte del usuario bajo cualquier costo, su rc sera incapaz de bajar a 0 siempre que tenga fulgor o resistencia. 
+cualquier ataque que se dirija y supere a su resistencia de condiciones sera incapaz de bajarla de 1, el excedente se cobra de su fulgor, si su fulgor llega a 0 se cobra de su resistencia general, también permite usar Fulgor para recuperar resistencia comun de forma manual e instantánea (se considera sana a una extremidad que recupere el 100% de su resistencia base)
 
 *Desgarro:* (habilidad activa): por cada punto de daño infligido al enemigo se convierte en un punto de Fulgor aprovechable hasta llegar a la máxima cantidad de fulgor acumulable en el momento (máximo acumulable equivalente al 100% de su fulgor base)
 
@@ -36,45 +35,46 @@ cualquier ataque que se dirija y supere a su resistencia de condiciones, se cobr
 
                    ─────
 💎 `ESTADÍSTICAS:`
-*(700 puntos a repartir).*
+*(1400 puntos a repartir).*
 > .🖋️
 
                    ─────
 ♦️ `FUERZA:`
 > .🖋️ Capacidad para ejercer presión, empujar objetos, golpear, levantar peso.
 
-                   40
+                   50
 💎 `RESISTENCIA:`
 > .🖋️ Capacidad para soportar presión, golpes por impacto y el tiempo máximo que puedes correr con toda tu velocidad.
 
-                   62
+                   10
 ♦️ `VELOCIDAD:`
 > .🖋️ Rapidez a la hora de desplazarse o correr.
 
-                   132
+                   50
 💎 `VELOCIDAD DE ATAQUE FÍSICO:`
 > .🖋️ Rapidez de tus ataques.
 
-                   68
+                   50
 ♦️ `REFLEJOS:`
 > .🖋️ Prontitud en responder a estímulos, se usa para esquivar o evitar obstáculos repentinos, aquí se indica hasta que punto puedes reaccionar, por ejemplo 5 m/s o 5 ptos indican que puedes evitar cosas que se muevan igual o por debajo de esa cifra.
 
-                   153
+                   50
 💎 `RESISTENCIA DE CONDICIONES:`
 > .🖋️ Capacidad para resistir otras habilidades que no involucren impacto físico, y condiciones naturales adversas.
 
-                   45
+                   190
 ♦️ `PUNTOS DE FULGOR:`
 > .🖋️ Tú maná, magia, energía o poder, esto es lo que gastas para tus habilidades.
 
-900
+1000
+
 
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4🔷 (Azules) 
-— 0  💠 (Celestes)  
-— 0 🟪(Rosa)
+— 2 🔷(Azules) 
+— 5 💠(Celestes)  
+— 4 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
