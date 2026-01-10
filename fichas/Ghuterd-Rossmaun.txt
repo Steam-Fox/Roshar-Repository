@@ -86,7 +86,8 @@ Absorbe de la naturaleza un 15% de fulgor por post (15% de el fulgor total), en 
 
 > .🖋️  400 puntos
 
-`INVENTARIO📦`
+
+𝗜𝗡𝗩𝗘𝗡𝗧𝗔𝗥𝗜𝗢📦
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
 — 6 🔷 (Azules)
 — 0 💠 (Celestes)
@@ -97,68 +98,109 @@ Absorbe de la naturaleza un 15% de fulgor por post (15% de el fulgor total), en 
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳
 
-— Libro mágico de plantas:
+— ⟪𝐋𝐢𝐛𝐫𝐨 𝐌𝐚𝐠𝐢𝐜𝐨 𝐝𝐞 𝐏𝐥𝐚𝐧𝐭𝐚𝐬⟫
 Tiene una gema verde al centro de su portada, permite invocar el poder de la naturaleza al abrirlo para así controlar (en todo aspecto) la flora, con potencia de 100 puntos hasta desgastarse la magia y luego tener que reposar un día (de rol) para volver a usarse.
 Dureza: 100
 
-— Batería para recargas de fulgor:
+— ⟪𝐁𝐚𝐭𝐞𝐫𝐢𝐚 𝐝𝐞 𝐅𝐮𝐥𝐠𝐨𝐫⟫
 Acciona el mecanismo y las manecillas comenzarán a girar emitiendo un brillo etéreo que puede recuperar el fulgor del usuario hasta en 100 puntos antes de quedar vacío y tener que reposar por un día (de rol) para recargarse.
 Dureza: 100pts
 
-— Mochila dimensional de hasta 4 metros cúbicos:
+— ⟪𝐌𝐨𝐜𝐡𝐢𝐥𝐚 𝐃𝐢𝐦𝐞𝐧𝐜𝐢𝐨𝐧𝐚𝐥 4𝐦³⟫
 Permite meter objetos bastante grandes o simplemente muchos objetos pequeños, no permite entrar más que objetos, para sacar objetos sólo piensa en lo que quieres y lo tendrás a la mano.
 Dureza: 100pts
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
-— *9 Plantas curativas:* Estás plantas de pétalos verdes y centro amarillo regeneran heridas y alivian la fatiga, restablecen el cuerpo y lo llenan de nuevo la energía mágica [100pts c/u]
+— ⟪𝐏𝐥𝐚𝐧𝐭𝐚𝐬 𝐂𝐮𝐫𝐚𝐭𝐢𝐯𝐚𝐬 [9]⟫
+➥ 100pts c/u
+Estás plantas de pétalos verdes y centro amarillo regeneran heridas y alivian la fatiga, restablecen el cuerpo y lo llenan de nuevo la energía mágica [100pts c/u]
 
-— *1 Planta curativa:* Estás plantas de pétalos verdes y centro amarillo regeneran heridas y alivian la fatiga, restablecen el cuerpo y lo llenan de nuevo la energía mágica.
-[1300pts ]
+— ⟪𝐏𝐥𝐚𝐧𝐭𝐚 𝐂𝐮𝐫𝐚𝐭𝐢𝐯𝐚 [1]⟫
+➥ 1300pts
+Estás plantas de pétalos verdes y centro amarillo regeneran heridas y alivian la fatiga, restablecen el cuerpo y lo llenan de nuevo la energía mágica.
 
-— *10 Flores Azuren:*
+— ⟪𝐅𝐥𝐨𝐫𝐞𝐬 𝐀𝐳𝐮𝐫𝐞𝐧 [4]⟫
+➥ 28,800pts c/u
 Planta mágica que emana un fulgor etéreo, aumenta la energía mágica. Sus pétalos azules brillantes parecen contener la esencia de la noche estrellada, y su aroma es como un susurro de secretos antiguos.
-[500pts c/u]
 
-Tiene 28 mil de potencia cada una y tambien 2 semillas azuren con la misma potencia
+— ⟪𝐅𝐥𝐨𝐫𝐞𝐬 𝐀𝐳𝐮𝐫𝐞𝐧 [1]⟫
+➥ 86,400pts
+Planta mágica que emana un fulgor etéreo, aumenta la energía mágica. Sus pétalos azules brillantes parecen contener la esencia de la noche estrellada, y su aroma es como un susurro de secretos antiguos.
 
-— *3 Hongos Somníferos:* Estos hongos secretan esporas y fluidos que pueden ser extraídos, causan adicción si se usan continuamente y provocan un estado similar a la parálisis de sueño, pueden generar alucinaciones y sueño profundo en mayor cantidad [100pts c/u]
+— ⟪𝐇𝐨𝐧𝐠𝐨𝐬 𝐒𝐨𝐦𝐧𝐢𝐟𝐞𝐫𝐨𝐬 [3] ⟫
+➥ 100pts c/u
+Estos hongos secretan esporas y fluidos que pueden ser extraídos, causan adicción si se usan continuamente y provocan un estado similar a la parálisis de sueño, pueden generar alucinaciones y sueño profundo en mayor cantidad.
 
-— *2 Verbena Lunar:* Una planta de hojas azuladas con flores moradas que brillan débilmente bajo la luna. Sus pétalos se usan en ungüentos curativos.[100pts c/u]
+— ⟪𝐕𝐞𝐫𝐛𝐞𝐧𝐚 𝐋𝐮𝐧𝐚𝐫 [2] ⟫
+➥ 100pts c/u
+Una planta de hojas azuladas con flores moradas que brillan débilmente bajo la luna. Sus pétalos se usan en ungüentos curativos.
 
-— *2 Raíz de Draco:* Planta de tallo rojizo con hojas gruesas y raíces nudosas, de las cuales se extrae un jugo espeso que ayuda a la coagulación. [100pts c/u]
+— ⟪𝐑𝐚𝐢𝐳 𝐝𝐞 𝐃𝐫𝐚𝐜𝐨 [2] ⟫
+➥ 100pts c/u
+Planta de tallo rojizo con hojas gruesas y raíces nudosas, de las cuales se extrae un jugo espeso que ayuda a la coagulación.
 
-— *2 Flor de Brumaris:* Crece en pantanos, tiene pétalos morados y un aroma dulce. Su néctar se usa para combatir fiebres y enfermedades.[100pts c/u]
+— ⟪𝐅𝐥𝐨𝐫 𝐝𝐞 𝐁𝐫𝐮𝐦𝐚𝐫𝐢𝐬 [2] ⟫
+➥ 100pts c/u
+Crece en pantanos, tiene pétalos morados y un aroma dulce. Su néctar se usa para combatir fiebres y enfermedades.
 
-— *2 Hoja de Ventisca:* Arbusto de montaña con hojas alargadas y plateadas, que al masticarse reducen inflamaciones y dolores musculares. [100pts c/u]
+— ⟪𝐇𝐨𝐣𝐚 𝐕𝐞𝐧𝐭𝐢𝐬𝐜𝐚 [2] ⟫
+➥ 100pts c/u
+Arbusto de montaña con hojas alargadas y plateadas, que al masticarse reducen inflamaciones y dolores musculares. [100pts c/u]
 
-— *2 Cardo de Ambar:* Planta espinosa con flores doradas y savia viscosa, utilizada en analgésicos y regeneradores de piel. [100pts c/u] y [1200 c/u]
+— ⟪𝐂𝐚𝐫𝐝𝐨 𝐝𝐞 𝐀𝐦𝐛𝐚𝐫 [1] ⟫
+➥ 100pts
+Planta espinosa con flores doradas y savia viscosa, utilizada en analgésicos y regeneradores de piel.
 
-— *2 Pétalo de Relámpago:* Flor amarilla con vetas rojas que chisporrotean al tacto, su infusión mejora los reflejos. Si no se maneja correctamente, la flor puede inducir espasmos musculares incontrolables, causando daños a los nervios y aceleración excesiva del corazón, lo que puede llevar a un colapso. [100pts c/u]
+— ⟪𝐂𝐚𝐫𝐝𝐨 𝐝𝐞 𝐀𝐦𝐛𝐚𝐫 [1] ⟫
+➥1200pts
+Planta espinosa con flores doradas y savia viscosa, utilizada en analgésicos y regeneradores de piel.
 
-— *2 Espina de Viento:* Hierba con hojas finas y alargadas que parecen moverse solas, su polvo otorga velocidad extrema. El polvo mal procesado puede causar descoordinación extrema, movimientos erráticos y agotamiento total del cuerpo tras un breve periodo de velocidad aumentada. [100pts c/u]
+— ⟪𝐏𝐞𝐭𝐚𝐥𝐨 𝐑𝐞𝐥𝐚𝐦𝐩𝐚𝐠𝐨 [2] ⟫
+➥100pts c/u
+Flor amarilla con vetas rojas que chisporrotean al tacto, su infusión mejora los reflejos. Si no se maneja correctamente, la flor puede inducir espasmos musculares incontrolables, causando daños a los nervios y aceleración excesiva del corazón, lo que puede llevar a un colapso.
 
-— *2 Raíz de Centella:* Arbusto con raíces blancas y retorcidas que brillan con un tenue resplandor al arrancarse. Si no se prepara adecuadamente, la raíz puede inducir delirios y alucinaciones, confundiendo al usuario y desorientándolo en el campo de batalla. [100pts c/u]
+— ⟪𝐄𝐬𝐩𝐢𝐧𝐚 𝐝𝐞 𝐕𝐢𝐞𝐧𝐭𝐨 [2] ⟫
+➥100pts c/u
+Hierba con hojas finas y alargadas que parecen moverse solas, su polvo otorga velocidad extrema. El polvo mal procesado puede causar descoordinación extrema, movimientos erráticos y agotamiento total del cuerpo tras un breve periodo de velocidad aumentada.
 
-*2 Hierba Sombraligera:* Planta de hojas negras y aspecto etéreo, su infusión permite moverse con agilidad sobrenatural. Consumida sin la preparación adecuada, la planta provoca un aumento desmesurado de la velocidad que lleva a la pérdida de control motor, con riesgos de lesiones graves. [100pts c/u]
+— ⟪𝐑𝐚𝐢𝐳 𝐂𝐞𝐧𝐭𝐞𝐥𝐥𝐚 [2] ⟫
+➥100pts c/u
+Arbusto con raíces blancas y retorcidas que brillan con un tenue resplandor al arrancarse. Si no se prepara adecuadamente, la raíz puede inducir delirios y alucinaciones, confundiendo al usuario y desorientándolo en el campo de batalla.
 
-— *2 Estrella de Krael*: una flor con pétalos de un rojo intenso que crece en zonas rocosas y se cree que fortalece los músculos.[10pts]
+— ⟪𝐇𝐢𝐞𝐫𝐯𝐚 𝐒𝐨𝐦𝐛𝐫𝐚𝐥𝐢𝐠𝐞𝐫𝐚 [2]⟫
+➥ 100pts c/u
+Planta de hojas negras y aspecto etéreo, su infusión permite moverse con agilidad sobrenatural. Consumida sin la preparación adecuada, la planta provoca un aumento desmesurado de la velocidad que lleva a la pérdida de control motor, con riesgos de lesiones graves.
 
-— *2 Lámina de Arkon*: una planta con hojas gruesas y resistentes que crece en climas fríos y se cree que aumenta la resistencia al dolor. [10pts]
+— ⟪𝐄𝐬𝐭𝐫𝐞𝐥𝐥𝐚 𝐝𝐞 𝐊𝐫𝐚𝐞𝐥 [2] ⟫
+➥ 10pts c/u
+Una flor con pétalos de un rojo intenso que crece en zonas rocosas y se cree que fortalece los músculos.
 
-— *2 Raíz de Tharros*: una raíz profunda y retorcida que crece en zonas de alta energía y se cree que aumenta la resistencia a la fatiga. [10pts]
+— ⟪𝐋𝐚𝐦𝐢𝐧𝐚 𝐝𝐞 𝐀𝐫𝐤𝐨𝐧⟫
+➥10pts c/u
+Una planta con hojas gruesas y resistentes que crece en climas fríos y se cree que aumenta la resistencia al dolor.
 
-— *2 Fruto de Eldrador*: una baya pequeña y dura que crece en arbustos espinosos y se cree que fortalece los huesos. [10pts]
+— ⟪𝐑𝐚𝐢𝐳 𝐝𝐞 𝐓𝐚𝐫𝐫𝐨𝐬 [2] ⟫
+➥ 10pts c/u
+Una raíz profunda y retorcida que crece en zonas de alta energía y se cree que aumenta la resistencia a la fatiga.
 
-— *2 Vástago de Zha'thik* : un tallo grueso y flexible que crece en zonas de alta humedad y se cree que aumenta la resistencia a los golpes. [10pts]
+— ⟪𝐅𝐫𝐮𝐭𝐨 𝐝𝐞 𝐄𝐥𝐝𝐫𝐚𝐝𝐨𝐫 [2] ⟫
+➥ 10pts c/u
+Una baya pequeña y dura que crece en arbustos espinosos y se cree que fortalece los huesos.
+
+— ⟪𝐕𝐚𝐬𝐭𝐚𝐠𝐨 𝐝𝐞 𝐙𝐡𝐚'𝐭𝐡𝐢𝐤 [2] ⟫
+➥ 10pts c/u
+Un tallo grueso y flexible que crece en zonas de alta humedad y se cree que aumenta la resistencia a los golpes.
 
 ╰─► ❲ ```Recetas``` ❳
 
-— Receta: Tinta para contratos de servidumbre [La tinta debe superar la Resistencia de condiciones del empleado para obligarlo a servir al empleador, si es un contrato mutuo solo se necesita la tinta sin tener que superar la resistencia de condiciones del empleado]
+— ⟪𝐓𝐢𝐧𝐭𝐚 𝐄𝐬𝐜𝐥𝐚𝐯𝐢𝐬𝐭𝐚⟫
+La tinta debe superar la Resistencia de condiciones del empleado para obligarlo a servir al empleador, si es un contrato mutuo solo se necesita la tinta sin tener que superar la resistencia de condiciones del empleado.
 
 ╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
 
-— Alquimista Gnomo Bandido: Contrato de servidumbre permanente.
+— ⟪𝐀𝐥𝐪𝐮𝐢𝐦𝐢𝐬𝐭𝐚 𝐆𝐧𝐨𝐦𝐨⟫
+Contrato de servidumbre permanente.
 `Estadisticas`
 FUE: 100
 RES: 100
@@ -170,10 +212,15 @@ FUL: 100
 
 ╰─► ❲ 𝙴𝚖𝚙𝚛𝚎𝚜𝚊𝚜 ❳
 
-— Tageladen "Botica y Artesanía" Un taller de refinamiento de materiales diversos ubicado en Jakehved
+— 🍀𝐓𝐚𝐠𝐞𝐥𝐚𝐝𝐞𝐧 "𝑩𝒐𝒕𝒊𝒄𝒂 𝒚 𝑨𝒓𝒕𝒆𝒔𝒂𝒏𝒊𝒂"🍀
+Un taller de refinamiento de materiales diversos ubicado en Jakehved
 
 ╰─► ❲ 𝚄𝚗𝚒𝚍𝚊𝚍𝚎𝚜 𝚍𝚎 𝙲𝚘𝚖𝚎𝚛𝚌𝚒𝚘 ❳
 
 ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
 
-—
+— ⟪𝐄𝐥𝐢𝐱𝐢𝐫 𝐋𝐮𝐱𝐢𝐮𝐦 [3]⟫
+➥ 28,800pts c/u
+Elixir liquido color dorado traslucido.
+➟ Duracion: 10post
+➟ Aumento: +28,800 FG
