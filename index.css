@@ -6,7 +6,7 @@ body {
   background-image: url("./fondo.jpg");
   background-size: cover;
   background-position: center center;
-  background-atachment: fixed;
+  background-attachment: fixed;
   text-align: center;
   text-shadow: 
     -1px -1px 0 black,
