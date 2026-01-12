@@ -82,7 +82,7 @@
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
 — 4🔷 (Azules) 
-— 40  💠 (Celestes)  
+— 10  💠 (Celestes)  
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
@@ -93,6 +93,29 @@
 — Cal azul de teletransportación que permite 4 tp al día tiempo rol. Tiene 20 puntos de resistencia.
 
 – Lanza de oro: Es una lanza de dos metros y 100 puntos de dureza.
+
+— 10 rombos celestes.
+
+— *Ocultista*
+
+Fue vencido, secuestrado y contratado forzosamente bajo trato de esclavo por Lucius Segundos bajo el objetivo de posteriormente ser evangelizado.
+
+Estadísticas:
+Fuerza: 25
+Resistencia: 25
+Resistencia a condiciones: 50
+Velocidad: 50
+Velocidad de ataque: 100
+Reflejos: 100
+Fulfor: 50
+
+Habilidad pasiva:
+Ojos del más allá: Capaz de detectar seres invisibles al ojo común pero obtienes ceguera permanente
+
+Habilidad activa:
+Invocación de demonio: Invoca a un demonio fantasmal que dura 5 turnos a cambio de 25 de fulgor. Usando el sistema actual de invocaciones.
+
+— Cal azul de teletransportación que permite 4 tp al día tiempo rol. Tiene 20 puntos de resistencia.
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
