@@ -84,8 +84,7 @@ AKH-1 EXP(27) [PARLA]
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ —
 — Una mascara de 50 puntos de dureza que es capaz de aumentar las estadísticas al decantar los 650 puntos de fulgor que almacena, todo menos fulgor. Al elevar alguna de las resistencias o ambas esa cantidad de fulgor no volverá hasta que esa resistencia haya sido consumida de alguna forma, mientras que el resto de las estadísticas volverán a su normalidad tras 10 post (se usa repartiendo los puntos según la voluntad del usuario).
 
-
-Francine:
+— Una mascara de 50 puntos de dureza que es capaz de aumentar las estadísticas al decantar los 650 puntos de fulgor que almacena, todo menos fulgor. Al elevar alguna de las resistencias o ambas esa cantidad de fulgor no volverá hasta que esa resistencia haya sido consumida de alguna forma, mientras que el resto de las estadísticas volverán a su normalidad tras 10 post (se usa repartiendo los puntos según la voluntad del usuario).
 
 — Nargacuga mecánico:
 Es un animal hostil pero pensativo. La transición de esta criatura a pasar de ser de metal no le quitó sus rasgos animales de agresividad y adaptabilidad. Igual sigue siendo un ser analítico desde su orígenes animales, cosa mejorada por su nuevo origen mecánico. Fue creado por Francine durante la exploración de las islas en el exterior de Cristalia, más específicamente la de fuego. Mide 2 metros de altura. Wyvern volador Nargacuga, pero además transicionado al metal.
@@ -120,7 +119,6 @@ VELOCIDAD DE ATAQUE FÍSICO: 100
 REFLEJOS: 100
 RESISTENCIA DE CONDICIONES: 100
 PUNTOS DE FULGOR: 100
-
 
  ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳ —
  4 🔷 (inicial)
