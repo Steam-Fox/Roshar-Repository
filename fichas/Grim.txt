@@ -47,6 +47,17 @@ Despertó en la choza del chamán, su cuerpo no había vuelto a la normalidad y 
 
 > *EMBESTIDA(Bloqueada): Durante el turno actual y el segundo turno, la velocidad de movimiento iguala a la velocidad de ataque del usuario sin costo inmediato, pero en el tercer turno tras desactivar la habilidad ambas velocidades caen a 0 durante 2 por post*
 
+> PERMA FROST:
+
+
+> _El hielo y la escarcha rodean al usuario, el frío congela a todo quien se acerque y sea tan idiota como para retar al invierno_
+
+
+> `Detalles de la habidad:`
+
+ 
+> Al activar esta habilidad se genera un campo helado alrededor del usuario, con un tamaño en metros equivalente a la cantidad de fulgor aplicado, cualquiera que entre sufre una reducción de sus rc equivalentes al fulgor aplicado, si sus RC son superados  se aplica el efecto Permafrost el cual congela el cuerpo sin matar pero evita cualquier movimiento físico, aunque no la activación de habilidades. Este efecto posee una duración de 6 post y no se desplaza junto al usuario .
+
 
 > `Habilidad de evento:`
 
