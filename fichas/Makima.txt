@@ -35,15 +35,15 @@ Todo ente que interactúe con ella , llegara a ser controlado, cuando se tiene u
                    ─────
 ♦️ `FUERZA:`
 > .🖋️ Capacidad para ejercer presión, empujar objetos, golpear, levantar peso.
-80
+50
                    ─────
 💎 `RESISTENCIA:`
 > .🖋️ Capacidad para soportar presión, golpes por impacto y el tiempo máximo que puedes correr con toda tu velocidad.
-80
+50
                    ─────
 ♦️ `VELOCIDAD:`
 > .🖋️ Rapidez a la hora de desplazarse o correr.
-100
+50
                    ─────
 💎 `VELOCIDAD DE ATAQUE FÍSICO:`
 > .🖋️ Rapidez de tus ataques.
@@ -51,11 +51,11 @@ Todo ente que interactúe con ella , llegara a ser controlado, cuando se tiene u
                    ─────
 ♦️ `REFLEJOS:`
 > .🖋️ Prontitud en responder a estímulos, se usa para esquivar o evitar obstáculos repentinos, aquí se indica hasta que punto puedes reaccionar, por ejemplo 5 m/s o 5 ptos indican que puedes evitar cosas que se muevan igual o por debajo de esa cifra.
-100
+50
                    ─────
 💎 `RESISTENCIA DE CONDICIONES:`
 > .🖋️ Capacidad para resistir otras habilidades que no involucren impacto físico, y condiciones naturales adversas.
-100
+50
                    ─────
 ♦️ `PUNTOS DE FULGOR:`
 > .🖋️ Tú maná, magia, energía o poder, esto es lo que gastas para tus habilidades.
