@@ -1,5 +1,6 @@
 ⚜️ 𝑀𝑜𝑔𝑑𝑟𝑒𝑑 𝑃𝑖𝑛̃𝑜𝑎𝑧𝑡𝑢𝑡𝑜
-🌐
+🌐𝑨𝒅𝒎𝒊𝒏𝒊𝒔𝒕𝒓𝒂𝒕𝒖𝒎September 25, 2025
+Imagen en proceso...
 💎 PERSONALIDAD:
 > .🖋️ Curioso por naturaleza, astuto, pero brutal, muestra una inteligencia tanto en su capacidad como en un extraño entendimiento de lo que lo rodea.
 
@@ -16,7 +17,10 @@
 ─────
 
 ♦️ `Habilidades:`
+
+
 > .🖋️ 👁️ *VISION DEL MALAGHUERO* Sus ojos brillan con energía verde mientras sincroniza su visión con la del cuervo. Puede ver todo lo que el cuervo ve (hasta 1km de distancia) sin perder su propia visión (como una pantalla dividida psíquica)
+
 
 
 TELEPORTACION...CASI
@@ -28,7 +32,12 @@ CARICIA DE GORKAMORKA
 Su daño es la fuerza del usuario + fulgor aplicado al usar la habilida. el enemigo es lanzando 20 metros al ser impactado 
 
 
+Hambre de Gorka morka
 
+*Él infunde su fulgor con una esencia corrupta (como un miasma mágico invisible, teñido de caos orko), que se propaga al fulgor del oponente durante el contacto o derrota. Esto corrompe su reserva, haciendo que parte de su fulgor se vuelva inestable y "verde" (propenso a fugas o mal funcionamiento). Sutilmente, el lazo corrupto permite que él absorba una fracción de ese fulgor corrompido de vuelta, recargando su propia reserva. La efectividad depende de su nivel de fulgor: un alto nivel permite corrupción profunda y absorción mayor; un bajo nivel la hace superficial.*
+
+
+*La habilidad escala con su nivel de fulgor base – solo puedes corromper y absorber hasta el 50% de su propio nivel máximo de fulgor (ej: si tienes 100 unidades base, máximo corrupción/absorción de 50 unidades del oponente). Este efecto solo puede usarse cuando supera el RC del oponente*
 ─────
 
 💎 `ESTADÍSTICAS:`
@@ -57,17 +66,16 @@ Su daño es la fuerza del usuario + fulgor aplicado al usar la habilida. el enem
 
 ─────
 💎 `RESISTENCIA DE CONDICIONES:`
-> .🖋️ 80
+> .🖋️ 100 
 
 ─────
 ♦️ `PUNTOS DE FULGOR:`
 > .🖋️ 100
 
-
-📦 Inventario
+📦 Inventario 
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4🔷 (Azules) 
-— 0  💠 (Celestes)  
+— 4 🔷 (Azules)
+— 0 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
@@ -75,7 +83,6 @@ Su daño es la fuerza del usuario + fulgor aplicado al usar la habilida. el enem
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳
 
-— 
 — 
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
@@ -95,3 +102,6 @@ Su daño es la fuerza del usuario + fulgor aplicado al usar la habilida. el enem
 ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
 
 —
+
+
+Report content on this page
