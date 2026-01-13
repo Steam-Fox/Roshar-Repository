@@ -21,13 +21,11 @@
 
                    ─────
 ♦ Habilidades:
-> .🖋 
-1. Reactor Corazón [Pasiva/Activa]: Un núcleo compuesto de cristales con fulgor concentrado conectado al cuerpo de Steam-Fox. Reactor Corazón. Reduce pasivamente la mitad del fulgor base y lo transfiere a Resistencia a Condiciones, además de recuperar pasivamente cantidad de fulgor equivalente al daño realizado por el portador, independientemente del mismo o por armas. El usuario puede redistribuir de forma activa su fulgor por medio de contacto a armas u otros usuarios externos y viceversa solo a armas portadas.
-2. Sobrecarga [Activa]: Consume todo el fulgor para incrementar por 2 turnos la Velocidad de Movimiento, los Reflejos y la Fuerza en la misma cantidad [ej. práctico: 50 de fulgor consumido son +50 en Velocidad de Movimiento, Reflejos y Fuerza].
-3. Acelerado [Activa]: Consume la mitad del fulgor para incrementar la Velocidad de Movimiento por 7 turnos.
+> .🖋 1. Reactor Corazón [Pasiva/Activa]: Un núcleo compuesto de cristales con fulgor concentrado conectado al cuerpo de Steam-Fox. Reactor Corazón. Reduce pasivamente la mitad del fulgor base y lo transfiere a Resistencia a Condiciones, además de recuperar pasivamente cantidad de fulgor equivalente al daño realizado por el portador, independientemente del mismo o por armas. El usuario puede redistribuir de forma activa su fulgor por medio de contacto a armas u otros usuarios externos y viceversa solo a armas portadas.    2. Sobrecarga [Activa]: Consume todo el fulgor para incrementar por 2 turnos la Velocidad de Movimiento, los Reflejos y la Fuerza en la misma cantidad [ej. práctico: 50 de fulgor consumido son +50 en Velocidad de Movimiento, Reflejos y Fuerza].    3. Acelerado [Activa]: Consume la mitad del fulgor para incrementar la Velocidad de Movimiento por 7 turnos.
 
                    ─────
 💎 ESTADÍSTICAS:
+(700 puntos a repartir).
 > .🖋
 
                    ─────
@@ -60,26 +58,23 @@
 
 `INVENTARIO📦`
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4 🔷 (Azules)
-— 90 💠 (Celestes)
+— 9 🔷 (Azules) 4 falanges
+— 15 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
 
-╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ 
-<Llave Inglesa Gigante:
+╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ <Llave Inglesa Gigante:
 1. Dureza = 200
 2. Fulgor = 600
 3. Habilidad Recarga: Girar la llave inglesa aumenta el fulgor del portador consumiendo el del arma. Este efecto no se ve modificado por la pasiva Núcleo Corazón y el fulgor solo será de uso para las habilidades del portador. Mientras el fulgor se mantenga en el portador no regresará al arma.>
-
 < Revólver JMagnum: 
 1. Descripción de arma y uso: Un revólver que usa munción personalizada imbuida con fulgor. Cada disparo consume 50 de fulgor. Al impactar, causa daño por electricidad equivalente al fulgor consumido que resta puntos a la RC. Si la RC es 0, el daño se restará a RS. Alcance de daño de hasta 30 metros.
 2. Dureza = 100
 3. Fulgor = 100
 5. Velociad del Disparo = 100
 5. Habilidad, Electrificación: Consume todo el fulgor del arma para lanzar un único proyectil. Si la RC del enemigo representa al menos el 50% o menos del Fulgor consumido, su RC se reducirá a 0 y el resto se reducirá directamente a VM, VA y RF equitativamente por 4 turnos [división de puntos a 3, redondear de ser decimales].>
-
 < Rifle de Precisión Void:
 1. Descripción de arma y uso: Un rifle de precisión que usa munción personalizada imbuida con fulgor. Cada disparo consume 100 de fulgor. Al impactar causa daño por veneno equivalente reduciendo la RC del enemigo. Si la RC del enemigo es 0, el daño se hará a la RS. Alcance de hasta 300 metros.
 2. Dureza = 100
@@ -95,14 +90,14 @@
 
 ╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
 
-— 
+— Local en Ruthar: 10m², 400 de dureza
 
 ╰─► ❲ 𝙴𝚖𝚙𝚛𝚎𝚜𝚊𝚜 ❳
 
-— 
+— The Engineer Fox
 
 ╰─► ❲ 𝚄𝚗𝚒𝚍𝚊𝚍𝚎𝚜 𝚍𝚎 𝙲𝚘𝚖𝚎𝚛𝚌𝚒𝚘 ❳
 
 ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
 
-—
+— Artífice general: venta de objetos y armas, desde fabricación general hasta pedidos personalizados
