@@ -1,4 +1,4 @@
-*᪄    l ͜͡ ͠l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l︩︪ ͜͡ ͠    ꒰͜͡ ★ ͜͡꒱    l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪ ͜͡ ͠l︩︪l ͜͡ l   ᪃*
+*᪄    l ͜͡ ͠l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l︩︪ ͜͡ ͠l︩︪l ͜͡ l     ꒰͜͡ ★ ͜͡꒱    l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪ ͜͡ ͠l︩︪l ͜͡ l   ᪃*
 
  *`ꐚ. 𝗙𝐈𝐂𝐇𝐀 𝗗𝐄 𝗣𝐄𝐑𝐒𝐎𝐍𝐀𝐉𝐄 /!?`*
           ݁⏜͜͡᪈͜͡⏜݁    💠᳕    ݁⏜͜͡᪈͜͡⏜݁
@@ -64,7 +64,7 @@ _Ahora, Broly deberá adaptarse a Roshar, entender sus nuevas restricciones y de
 
 _Broly en este universo aprendió una habilidad un poco inusual pero que hace énfasis a su lore actual dónde tuvo que aprender a sentir el fulgor y a absorberlo para sobrevivir por ello tiene está habilidad._
 
-_El cuerpo de Broly es capaz absorber casi cualquier cantidad de Fulgor de rombos, criaturas o Pj. Simple y sencillamente necesita vencerlos o que tengan o RC. Cuando Broly hace eso convierte el fulgor en Ki y lo puede utilizar. Pero tras utilizarlo solo puede recuperar su Ki base._
+_El cuerpo de Broly es capaz absorber casi cualquier cantidad de Fulgor de rombos, criaturas o Pj. Simple y sencillamente necesita vencerlos o que tengan 0 RC. Cuando Broly hace eso convierte el fulgor en Ki y lo puede utilizar. Pero tras utilizarlo solo puede recuperar su Ki base._
 
 ~Límite: Puede acumular un 100% extra de fulgor en base a su 100% base. De paso puede rellenar el 100% base qué tiene~
  
@@ -91,15 +91,15 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
                    ─────
 ♦️ `FUERZA:`
-> .🖋️ 200Pts
+> .🖋️ 350Pts
 
                    ─────
 💎 `RESISTENCIA:`
-> .🖋️250Pts
+> .🖋️400Pts
 
                    ─────
- `VELOCIDAD:`
-> .🖋️ 100Pts
+ `♦️VELOCIDAD:`
+> .🖋️ 200Pts
 
                    ─────
 💎 `VELOCIDAD DE ATAQUE FÍSICO:`
@@ -108,20 +108,20 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
                    ─────
 ♦️ `REFLEJOS:`
-> .🖋️ 150Pts
+> .🖋️ 300Pts
 
                    ─────
 💎 `RESISTENCIA DE CONDICIONES:`
-> .🖋️ 200Pts
+> .🖋️ 300Pts
 
                    ─────
 ♦️ `PUNTOS DE FULGOR:`
-> .🖋️Base : 200Pts/100%
+> .🖋️Base : 250Pts
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
 — 124🔷 (Azules)
-— 0 💠 (Celestes)
+— 5 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
@@ -129,11 +129,11 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ 
 
-—  Pechera SSJ : Cubre toda la parte del torso y hombros. Dureza: 100pts
+—  Pechera SSJ : Cubre toda la parte del torso y hombros. Dureza: 100pts ( zona izquierda del hombro destruida)
 
-— Par de Brazales : Piensas que cubren los ante brazos y una pequeña parte de la muñeca. Dureza : 100pts
+— 
 
-— Jabalina. Dureza : 100pts
+— 
 
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
