@@ -131,6 +131,4 @@ Invocación de demonio: Invoca a un demonio fantasmal que dura 5 turnos a cambio
 
 ╰─► ❲ 𝚄𝚗𝚒𝚍𝚊𝚍𝚎𝚜 𝚍𝚎 𝙲𝚘𝚖𝚎𝚛𝚌𝚒𝚘 ❳
 
-ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
-
-—
+ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃ
