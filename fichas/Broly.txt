@@ -118,8 +118,8 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 124🔷 (Azules)
-— 5 💠 (Celestes)
+— 0🔷 (Azules)
+— 0 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
@@ -129,9 +129,11 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 —  Pechera SSJ : Cubre toda la parte del torso y hombros. Dureza: 100pts ( zona izquierda del hombro destruida)
 
-— 
+— Banda dorada de Broly : Dureza 100Pts / Poder: 400pts
 
-— 
+— Botas de Guerrero dorado: Dureza 100Pts / Poder: 150pts
+
+—  Cinturón dorado de combate: Dureza 236 / Poder: 400pts
 
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
