@@ -118,12 +118,14 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 0🔷 (Azules)
-— 0 💠 (Celestes)
-— 0 🟪(Rosa)
+— 1🔷 (Azules) 
+— 2 💠 (Celestes)
+— 2 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
+— 4 celestes/1 azúl 🛢️(Falanges)
+
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ 
 
@@ -138,7 +140,9 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
-—
+—Carne (X10) 200pts + pasiva 
+—Huesos (15) 200pts + pasiva 
+—Tendones (x4) 200pts + pasiva 
 
 ╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
 
