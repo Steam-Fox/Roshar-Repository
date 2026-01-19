@@ -118,13 +118,13 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 1🔷 (Azules) 
-— 2 💠 (Celestes)
-— 2 🟪(Rosa)
+— 2🔷 (Azules) 
+— 4 💠 (Celestes)
+— 4 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
-— 4 celestes/1 azúl 🛢️(Falanges)
+— 8 celestes/2 azúl 🛢️(Falanges)
 
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ 
