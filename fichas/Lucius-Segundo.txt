@@ -90,7 +90,8 @@
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳
 
- — Gema preciosa esférica impregnada con varios encantamientos. Tiene 216 puntos de resistencia y al estar dentro del cuerpo le da mejoras significativas a su usuario...
+Lucius:
+— Gema preciosa esférica impregnada con varios encantamientos. Tiene 216 puntos de resistencia y al estar dentro del cuerpo le da mejoras significativas a su usuario...
 
 + 200 puntos de resistencia a condiciones.
 + 200 puntos de resistencia.
@@ -98,7 +99,8 @@
 
 — Cal azul de teletransportación que permite 4 tp al día tiempo rol. Sin dañar sus funciones mágicas, fue mejorado mediante una capa de minerales ligeros que proporcionan al mismo una dureza de 560 puntos de resistencia.
 
-— Lanza de oro de Lucius. Ahora tiene 320 puntos de resistencia como dureza y 320 puntos de fulgor que puede emplear en lanzar electricidad sin dañar a su usuario. 
+— Lanza de oro de Lucius. Ahora tiene 320 puntos de resistencia como dureza y 320 puntos de fulgor que puede emplear en lanzar electricidad sin dañar a su usuario.
+
 
 — *Ocultista*
 
