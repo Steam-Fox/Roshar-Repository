@@ -83,18 +83,42 @@ _100_
 — 
 
 ╰─► ❲ _*𝙳𝚒𝚗𝚎𝚛𝚘*_ ❳
-— 4 🔷 (Azules)
-— 31 💠 (Celestes)
+— 0 🔷 (Azules)
+— 0 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
 
  ╰─► ❲ _*𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ*_ ❳
-— _Material desconocido (700 puntos de dureza)_
+—
 
 ╰─► ❲ _*𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜*_ ❳
 — 
+
+Fichas NPC [Hijo de Yerma y C.IA.N]
+
+Nombre: Carrion
+
+Raza: Cambiaformas/Autómata (Híbrido)
+
+Habilidades: (4)
+
+1. Cambiaformas: puede absorber el adn o material de sus víctimas para transformarse en esa misma especie. En caso de matar y absorber a la víctima, si esta era más fuerte que el usuario, esa diferencia de puntos pasará a este mismo
+
+2. Anti-natural: Usa su fulgor para intentar sobrepasar la RC de la víctima, en caso de lograrlo bloqueará el fulgor del afectado
+
+3. Mejora constante: Acumula el daño que recibe y lo transforma en puntos de estadísticas los cuáles puede repartir libremente(Después del combate ese plus desaparecerá| No resistencias)
+
+
+
+Fuerza: 200
+Resistencia: 356
+Resistencia de condiciones: 300
+Velocidad: 190
+Velocidad de ataque: 500
+Reflejos: 400
+Fulgor: 500
 
 
 ╰─► ❲ _*𝙴𝚖𝚙𝚛𝚎𝚜𝚊𝚜*_ ❳
