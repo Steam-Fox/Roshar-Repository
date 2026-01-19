@@ -67,6 +67,10 @@ Despertó en la choza del chamán, su cuerpo no había vuelto a la normalidad y 
 
    
 > *Cada vez que Grim asesina a un enemigo superior a él,  tiene la posibilidad de arrebatarle una habilidad  (sólo una). La habilidad que arrebata permanecerá bloqueada, a menos que decida  bloquear alguna de las suyas antes de un combate, dándole acceso  a la recién obtenida*
+
+
+`Control Ígneo:(bloqueado)`
+> Puede manipular el elemento fuego para crear bolas de fuego o columnas de fuego cuyo volumen, potencia y velocidsd depende del fulgor gastado. 1pt de fulgor igual a 1 metro de rango
                 ─────
 
 💎 ESTADÍSTICAS:
@@ -116,16 +120,16 @@ Despertó en la choza del chamán, su cuerpo no había vuelto a la normalidad y 
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 6🔷 (Azules) + 2 Falanges
-— 21 💠 (Celestes)  
-— 1 🟪(Rosa)
+— 7🔷 (Azules) + 3 Falanges
+— 23 💠 (Celestes)  
+— 3 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳
 
-— 
+— [Titulo] [Reconocimiento como cazador experimentado]
 — 
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
