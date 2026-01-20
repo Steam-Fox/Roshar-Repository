@@ -5,7 +5,7 @@
 
                    ─────
 ♦ IDENTIFICACIÓN:
-> .🖋 Nombre: Gear - Pseudónimo: Steam-Fox - Apodo:Rose o tambien joto
+> .🖋 Nombre: Gear - Pseudónimo: Steam-Fox - Apodo:Rose 
 
                    ─────
 💎 PERSONALIDAD:
@@ -59,7 +59,7 @@
 `INVENTARIO📦`
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
 — 9 🔷 (Azules) 4 falanges
-— 15 💠 (Celestes)
+— 0 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
@@ -88,7 +88,15 @@
 4. Velocidad del Disparo = 100
 5. Habilidad, Colmillo Venenoso: Consume todo el fulgor del arma en un único proyectil. Si la RC del enemigo representa al menos el 50% o menos del fulgor consumido, su RC se reducirá a 0. Los puntos restantes se distribuirán a la mitad para reducir RS y la otra mitad para reducir FZ, VA y RF en la misma cantidad cada uno por 4 turnos.
 
-—  
+—  Huesos de salamandra. 400 pts de resistencia
+
+5 esencias de serppiente marina. 200 pts de VM por cada una
+
+Núcleo 670 FG
+
+Tegumento draco. 1000 de RS o RC
+
+Apéndices carnosos. 1000 dureza/RS o RC
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
