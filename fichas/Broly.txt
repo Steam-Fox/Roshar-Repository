@@ -118,24 +118,26 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 2🔷 (Azules) 
-— 4 💠 (Celestes)
-— 4 🟪(Rosa)
+— 0🔷 (Azules) 
+— 0 💠 (Celestes)
+— 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
-— 8 celestes/2 azúl 🛢️(Falanges)
+— 3 azúl 🛢️(Falanges)
 
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳ 
 
 —  Pechera SSJ : Cubre toda la parte del torso y hombros. Dureza: 100pts ( zona izquierda del hombro destruida)
 
-— Banda dorada de Broly : Dureza 100Pts / Poder: 400pts
+— Banda/Diadema dorada de Broly : Dureza 203 Pts / Poder: 400pts
 
 — Botas de Guerrero dorado: Dureza 100Pts / Poder: 150pts
 
 —  Cinturón dorado de combate: Dureza 236 / Poder: 400pts
+
+— Collar Dorado Ozaru: Dureza 500Pts / 1800Pts
 
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
@@ -143,6 +145,10 @@ _Se sabe que Broly es alguien con una gran irá contenida. Cada vez que resibe d
 —Carne (X10) 200pts + pasiva 
 —Huesos (15) 200pts + pasiva 
 —Tendones (x4) 200pts + pasiva 
+— X2 cuero escamoso de serpiente (400pts de resistencia)
+—1 Núcleo de serpiente: 400 de fulgor
+—4 Colmillos filo escarcha: estos al pinchar a un enemigo llenan de hielo toda la zona afectada inutilizando dicha extremidad
+
 
 ╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
 
