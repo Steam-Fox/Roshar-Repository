@@ -96,9 +96,9 @@ Solo puede utilizarse una vez por batalla, por lo que si es destruido,  no podr�
 *Inventario*
 
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4 🔷 (Azules)
-— 13 💠 (Celestes)
-— 0 🟪(Rosa)
+— 5 🔷 (Azules)  [1] [Falange azul]
+— 15 💠 (Celestes) [4] [Falanges celestes]
+— 2 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
@@ -149,6 +149,19 @@ _Habilidades_ :
 2. Anulación del ruido: Expande una capa de fulgor alrededor de sí que anula el ruido expuesto por este mismo. Tiene un gasto de 10 puntos de fulgor por post.
 
 3. Anulación de la visión: Expande una capa de fulgor alrededor de sí que lo hace invisible ante los demás. Tiene un gasto de 10 puntos de fulgor por post.
+
+_*DEDOS DEL ASECHADOR*_
+
+delgados y retorcidos dedos color negro, con uñas de 15 cm suficientemente afiladas como para cortar, parecen estar quemados o podridos pues son bastante frágiles 
+
+objeto de corte
+RS: 50
+
+[habilidad] 
+
+> vinculo siniestro, toma a un objetivo a menos de 20 metros de el y se vincula con este, una vez el vínculo es efectivo los dedos se vuelven impersectibles ante cualquier tipo de detección que no sea sonora o física a todos menos al objetivo vinculado
+
+[Titulo] [CAZADOR EXPERIMENTADO]
 
 ╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
 
