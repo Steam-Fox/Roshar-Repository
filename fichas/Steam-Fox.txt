@@ -34,19 +34,19 @@
 
                    ─────
 💎 RESISTENCIA:
-> .🖋 300
+> .🖋 500
 
                    ─────
 ♦ VELOCIDAD:
-> .🖋 120
+> .🖋 300
 
                    ─────
 💎 VELOCIDAD DE ATAQUE FÍSICO:
-> .🖋 200
+> .🖋 400
 
                    ─────
 ♦ REFLEJOS:
-> .🖋 180
+> .🖋 300
 
                    ─────
 💎 RESISTENCIA DE CONDICIONES:
