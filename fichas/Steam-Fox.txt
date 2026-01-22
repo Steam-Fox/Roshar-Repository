@@ -59,7 +59,7 @@
 `INVENTARIO📦`
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
 — 9 🔷 (Azules) 4 falanges
-— 0 💠 (Celestes)
+— 60 💠 (Celestes)
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
