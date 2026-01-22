@@ -53,12 +53,13 @@ Comerse a sus enemigos lo fortalece, obtendrá la diferencia de stats entre el y
 ♦️ `PUNTOS DE FULGOR:`
 > .🖋️630
 
-📦 Inventario
+
+📦 Inventario (el viejo 7)
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4🔷 (Azules) 
-— 0  💠 (Celestes)  
-— 0 🟪(Rosa)
-— 0 ⭐(Amarillo)
+— 9 🔷 (Azules) 
+— 27 💠 (Celestes)  
+— 1  🟪(Rosa)
+— 3 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
 
@@ -69,7 +70,6 @@ Comerse a sus enemigos lo fortalece, obtendrá la diferencia de stats entre el y
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
-—
 
 ╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
 
@@ -84,3 +84,5 @@ Comerse a sus enemigos lo fortalece, obtendrá la diferencia de stats entre el y
 ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
 
 —
+
+
