@@ -65,8 +65,8 @@ Todo ente que interactúe con ella , llegara a ser controlado, cuando se tiene u
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 601🔷 (Azules) 
-— 330  💠 (Celestes)  
+— 1🔷 (Azules) 
+— 0 💠 (Celestes)  
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
@@ -74,8 +74,84 @@ Todo ente que interactúe con ella , llegara a ser controlado, cuando se tiene u
 
 ╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳
 
-— 
-— 
+— [Protector Unlimit]
+
+Un collar tecnologico , que libera una barrera invisible protectora capas de adaptarse ante cualquier situacion , estando activa todo el tiempo.
+
+[Habilidades Pasivas].
+
+[1] Camina por el vacío espacial, atmósferas tóxicas o zonas radiactivas sin traje (el campo mantiene aire, presión y filtra radiación).
+
+Tambien tiene Protección contra clima extremo: tormentas de arena, ácido, fuego o temperaturas infernales. 
+
+Hackeo defensivo: versiones avanzadas bloquean EMP, virus cibernéticos o intentos de hackeo cerebral.
+
+Todos los efectos lanzados sobre esta armadura seran anulados tras desgastar el fulgor como si fuece RC
+
+[2] Invisible o casi invisible: el enemigo no sabe si lo tienes activado hasta que le rebota la bala en la cara. Perfecto para emboscadas, infiltración o simplemente intimidar.
+
+[3] Forma adaptable: esfera completa, domo personal, pared frontal o incluso burbuja que se expande para cubrir aliados , tamaño mini del cuerpo para adelante  15 cm , tamaño maximo de expansion 3 metros.
+
+
+[4] Transporte seguro: salta de edificios altos (el campo amortigua la caída) o cruza tráfico loco sin riesgo.
+
+Sin limites cuando no es en combate , pero cuando el usuario esta en combate , dependiendo a la distancia de la caida , estaria desgastando la barrera
+
+[6] Protección 24/7 , esta todo el tiempo activa , La capacidad defensiva de  esta barrera es de 8 mil pts , por sus 8 mil pts de fulgor.
+
+El fulgor actua tanto como RC y RS
+
+
+[Habilidades Activas]
+
+[Modo de Ataque].
+
+Tiene la capacidad de poder cambiar la barrera normal , en una de energia electrica , toda la barrera se transforma en electricidad , rayos puros y muy potentes , con la capacidad de hacer un daño al contacto de 8 mil pts , lo mismo que tiene de fulgor el broche.
+
+Este daño es instantaneo , pudiendo desintegrar tanto personas o ataques fisicos o magicos , si no se tiene la resistencia suficiente.
+
+La barrera no distigira de amigo o enemigo y tendra una duracion de 10 post.
+
+600 de dureza y 8 mil de fulgor
+
+Precio:150 celestes y 55 azules
+
+
+
+
+— [Eyes Advance]
+
+Lentes de contacto roboticos que toman control del cuerpo y del cerebro ,  dandole la capacidad  de poder acelerar tanto los reflejos y la capacidad de pensamiento a base del fulgor almacenado.
+
+[Habilidades Pasivas]
+
+•Le da al usuario una vista de 360° , como los lentes toman control del cuerpo y del cerebro internamente , tiene la capacidad de implantar sensores distribuidos.
+
+Imagina que no solo reemplazar los globos oculares, sino añadir implantes en la cabeza entera: microcámaras en la parte trasera del cráneo, laterales e incluso en la coronilla.
+
+•Zoom óptico/digital finito , la distancia maxima que puede hacer zoom es la cantidad maxima que tiene de fulgor los lentes.
+
+•Visión nocturna total (ver en oscuridad absoluta como de día).
+
+•Vision Infrarrojo, ultravioleta, térmico (detectar calor corporal, gases, radiación o incluso mentiras por cambios de temperatura).
+
+•Visión a través de paredes u objetos (rayos X, penetración selectiva).
+
+•Filtros automáticos contra deslumbramiento, humo o ilusiones.
+
+En el tema de iluisiones , se tendran que consumir la cantidad de fulgor usada en la ilusion para salir de ella.
+
+[Habilidades activas]
+
+[Aceleración] :Tiene la capacidad de acelerar todo el cuerpo , mejorando los RF , VA Y VM.
+
++5000 pts en RF , +4400 pts en VA , +5000 pts en VM.
+
+Como plus le dan a los ojos un aumento de RS en 125 pts.
+
+Dureza 0 , 14625 mil pts de fulgor
+
+Precio:180 celestes y 545 azules
 
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
