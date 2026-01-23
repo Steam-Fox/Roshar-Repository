@@ -149,6 +149,8 @@ En el tema de iluisiones , se tendran que consumir la cantidad de fulgor usada e
 
 Como plus le dan a los ojos un aumento de RS en 125 pts.
 
+Duracion 8 post
+
 Dureza 0 , 14625 mil pts de fulgor
 
 Precio:180 celestes y 545 azules
