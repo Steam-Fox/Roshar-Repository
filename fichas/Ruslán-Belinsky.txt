@@ -51,7 +51,7 @@ Comerse a sus enemigos lo fortalece, obtendrá la diferencia de stats entre el y
 💎 `RESISTENCIA DE CONDICIONES:`
 > .🖋️ 10
 ♦️ `PUNTOS DE FULGOR:`
-> .🖋️630
+> .🖋️2500
 
 
 📦 Inventario (el viejo 7)
