@@ -155,6 +155,15 @@ Dureza 0 , 14625 mil pts de fulgor
 
 Precio:180 celestes y 545 azules
 
+
+
+
+[Anillo teleport]
+
+> Un anillo que gasta un 25% del fulgor del objeto que este tiene para poder hacer que el usuario se teletransporte , cambie de lugar o cree un portal.
+
+DUREZA 100  , Fulgor 200
+
 ╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
 
 —
