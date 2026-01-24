@@ -1,0 +1,78 @@
+*᪄    l ͜͡ ͠l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l︩︪ ͜͡ ͠l︩︪l ͜͡ l     ꒰͜͡ ★ ͜͡꒱    l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪ ͜͡ ͠l︩︪l ͜͡ l   ᪃*
+
+ *`ꐚ. 𝗙𝐈𝐂𝐇𝐀 𝗗𝐄 𝗣𝐄𝐑𝐒𝐎𝐍𝐀𝐉𝐄 /!?`*
+          ݁⏜͜͡᪈͜͡⏜݁    💠᳕    ݁⏜͜͡᪈͜͡⏜݁
+
+                   ─────
+♦️ `IDENTIFICACIÓN:`
+> .🖋️ · Nombre: Nihil Apodos: “El Espectro Silente”, “El Observador”
+
+
+                   ─────
+💎 `PERSONALIDAD:`
+> .🖋️· Curioso y observador, prefiere aprender antes que actuar. Pacífico por naturaleza, pero defenderá lo que considera justo. Le gusta explorar ruinas y lugares olvidados en busca de conocimiento. Se comunica solo cuando es necesario, generalmente a través del pensamiento. 
+
+                   ─────
+♦️ `HISTORIA:`
+> .🖋️ Nihil es un espectro formado a partir de una concentración de fulgor en las ruinas de una civilización antigua. Durante siglos, ha observado el mundo sin intervenir, aprendiendo sobre las criaturas, la magia y los secretos de Roshar. Recientemente, ha decidido interactuar más activamente con el mundo, uniéndose a la Asociación de Investigación y también a la asociación de cazadores para descubrir más sobre el origen del fulgor y las civilizaciones perdidas. Su pasado está lleno de misterio, pero su sed de conocimiento lo impulsa a seguir adelante.
+ 
+                   ─────
+💎 `RAZA: Espectro
+
+· Ventajas naturales:
+  1. Inmunidad a ataques físicos.
+ 2. Telekinesis básica (control de objetos inanimados).
+ 3. Comunicación telepática y control de visibilidad.
+
+                   ─────
+♦️ `Habilidades:`
+> .🖋️  HABILIDADES OFENSIVAS (3):
+
+1. Garra Espectral:
+   · Concentra fulgor en una mano para lanzar un ataque de energía sutil que atraviesa todo objeto físico para atacar directamente al oponente (primero este bajará directamente la resistencia de conducciones este al ser bajado atacará directamente al oponente) .
+   · Daño: será equivalente al fulgor usado, este atacará  directo a la Resistencia de Condiciones.
+   · Costo: lo que se gaste será el daño que se aplicará 
+   ·  puede atacar a corta distancia (hasta 5 metros).
+2. Aliento de Vacío:
+   · Exhala una ráfaga de frío espectral que reduce la velocidad de movimiento y ataque del enemigo.
+   · Efecto: Reduce la Velocidad de Ataque Físico y Velocidad del objetivo equivalente al fulgor usado durante 4 post. (Este primero atacara directamente la resistencia de conducciones cuando la resistencia de condiciones este superado se irá reduciendo los puntos respectivos 
+
+   · Costo: 1 fulgor por cada puntos de reducción enemigos. 
+3. Proyectil de Sombras:
+   · Dispara un orbe de fulgor oscuro que busca al objetivo y estalla al impactar.
+   · Daño: el daño será equivalente al fulgor usado y hará daño primero a la Resistencia de Condiciones.
+   · Si el ataque supera la Resistencia de Condiciones, queda aturdido 1 turno.
+   · Costo: por cada fulgor que se gaste hará daño al objetivo 
+
+                   ─────
+💎 `ESTADÍSTICAS:`
+*(700 puntos a repartir).*
+> .🖋️
+
+                   ─────
+♦️ `FUERZA:`
+> .🖋️ Capacidad para ejercer presión, empujar objetos, golpear, levantar peso.
+
+                   ─────
+💎 `RESISTENCIA:∞`
+> .🖋️ Capacidad para soportar presión, golpes por impacto y el tiempo máximo que puedes correr con toda tu velocidad.
+
+                   ─────
+♦️ `VELOCIDAD:50`
+> .🖋️ Rapidez a la hora de desplazarse o correr.
+
+                   ─────
+💎 `VELOCIDAD DE ATAQUE FÍSICO:0`
+> .🖋️ Rapidez de tus ataques.
+
+                   ─────
+♦️ `REFLEJOS:200`
+> .🖋️ Prontitud en responder a estímulos, se usa para esquivar o evitar obstáculos repentinos, aquí se indica hasta que punto puedes reaccionar, por ejemplo 5 m/s o 5 ptos indican que puedes evitar cosas que se muevan igual o por debajo de esa cifra.
+
+                   ─────
+💎 `RESISTENCIA DE CONDICIONES:250`
+> .🖋️ Capacidad para resistir otras habilidades que no involucren impacto físico, y condiciones naturales adversas.
+
+                   ─────
+♦️ `PUNTOS DE FULGOR:200`
+> .🖋️ Tú maná, magia, energía o poder, esto es lo que gastas para tus habilidades.
