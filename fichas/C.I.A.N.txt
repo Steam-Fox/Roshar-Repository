@@ -121,9 +121,34 @@ Reflejos: 400
 Fulgor: 500
 
 
+
+• Golem Escarabajo (Nivel 6)
+
+*【★Estadísticas★】*
+
+> [FZ: 400 PTS]  
+> [RS: 600 PTS]  
+> [VL/M: 400 PTS]  
+> [VL/ATQ: 500 PTS]  
+> [RF: 300 PTS]  
+> [RC: 200 PTS]  
+> [PTS/F: 100 PTS]
+
+• Zombie Cuadrúpedo Gigante (Nivel 9 - 200 metros de altura)
+
+*【★Estadísticas★】*
+
+> [FZ: 4000 PTS]  
+> [RS: 4000 PTS]  
+> [VL/M: 6000PTS]  
+> [VL/ATQ: 5000 PTS]  
+> [RF: 2000 PTS]  
+> [RC: 4000 PTS]  
+> [PTS/F: 0 PTS]
+
 ╰─► ❲ _*𝙴𝚖𝚙𝚛𝚎𝚜𝚊𝚜*_ ❳
 — 
 
 ╰─► ❲ _*𝚄𝚗𝚒𝚍𝚊𝚍𝚎𝚜 𝚍𝚎 𝙲𝚘𝚖𝚎𝚛𝚌𝚒𝚘*_ ❳
-ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒʳᶜⁱᵃⁿᵗᵉˢ
+ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
 —
