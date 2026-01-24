@@ -61,39 +61,4 @@ Esta habilidad permite a Vincent consumir almas arrancadas de cuerpos para obten
 > .🖋️ 100
 
 ♦️ `PUNTOS DE FULGOR:`
-> .🖋️ 500
-
-5 marionetas con 100pts en todo
-
-📦 Inventario
-╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4🔷 (Azules) 
-— 0  💠 (Celestes)  
-— 0 🟪(Rosa)
-— 0 ⭐(Amarillo)
-— 0 🔸(Naranja)
-— 0 ♦️(Rojo)
-
-╰─► ❲ 𝙾𝚋𝚓𝚎𝚝𝚘𝚜 ❳
-
-— 
-— 
-
-╰─► ❲ 𝙼𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚎𝚜 ʳᵉᶜᵒˡᵉᶜᵗᵃᵈᵒˢ ❳
-
-—
-
-╰─► ❲ 𝙿𝚛𝚘𝚙𝚒𝚎𝚍𝚊𝚍𝚎𝚜 ❳
-
-— 
-
-╰─► ❲ 𝙴𝚖𝚙𝚛𝚎𝚜𝚊𝚜 ❳
-
-— 
-
-╰─► ❲ 𝚄𝚗𝚒𝚍𝚊𝚍𝚎𝚜 𝚍𝚎 𝙲𝚘𝚖𝚎𝚛𝚌𝚒𝚘 ❳
-
-ᵐᵉᶜᵃⁿⁱᶜᵃ ᵈᵉ ᶜᵒᵐᵉʳᶜⁱᵃⁿᵗᵉˢ
-
-—
-
+> .🖋️ 15425 (+5000) (+15.425)
