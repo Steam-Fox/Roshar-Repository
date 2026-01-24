@@ -65,8 +65,8 @@ Todo ente que interactúe con ella , llegara a ser controlado, cuando se tiene u
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 1🔷 (Azules) 
-— 0 💠 (Celestes)  
+— 148🔷 (Azules) 
+— 78 💠 (Celestes)  
 — 0 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
