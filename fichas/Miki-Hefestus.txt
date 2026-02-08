@@ -13,51 +13,60 @@
 
                    ─────
 ♦️ `HISTORIA:`
-> .🖋️  Desde muy pequeño los seres que lo criaron y que consideraba padres le enseñaron sus capacidades para cambiar de forma y le contaban cuentos y relatos de diferentes ciudades y pueblos pero a diferencia de otros niños que admiraban a los héroes o a los seres poderosos de los cuentos el admiraba las armas de estos relatos así desarrollando una extraña afición por la creación de armas teniendo el deseoy aspiracióna crear amasue superarán las de los cuentos y leyendas así hbandonando u hoar aora xplorando el muno para conoer nuevos materials y nueva ténica decreacón  manufcturación
+> .🖋️  Desde muy pequeño los seres que lo criaron y que consideraba padres le enseñaron sus capacidades para cambiar de forma y le contaban cuentos y relatos de diferentes ciudades y pueblos pero a diferencia de otros niños que admiraban a los héroes o a los seres poderosos de los cuentos el admiraba las armas de estos relatos así desarrollando una extraña afición por la creación de armas teniendo el deseo y aspiración a crear armas que superarán las de los cuentos y leyendas así habandonando su hogar ahora explorando el mundo para conocer nuevos materiales y nuevas técnicas de creación y manufacturación
  
-        ────
-💎 `RAZA:
-> .🖋️  ensjero de l oscridad (incubo) 
+                   ─────
+💎 `RAZA:`
+> .🖋️  Mensajero de la oscuridad (incubo) 
 
-                 ───
-♦ `Habiade:`
+                   ─────
+♦️ `Habilidades:`
 > .🖋️  
-. Oo cirujano de rmas:na abilidad pasia ermanete que prmie ve lo ateriales especíico, la comosicinesde las aeaciones y fallos mlimétics en un armao artefacto con un visazoy un ligero tactocon los edos
+1. Ojo cirujano de armas:Una habilidad pasiva permanente que permite ver los materiales específicos, la composiciones de las aleaciones y fallos milimétricos en un arma o artefacto con un vistazo y un ligero tacto con los dedos
 
-(Prmite ver todas ls etadísicas y os ls dealles dl obeto examinado)
+(Permite ver todas las estadísticas y dos los detalles del objeto examinado).
 
-2.Metamorfo absluto:
-Se trtaía de una bildad ue consueelmaterialde eeccon pero ue le perite hace que su uerpo o una parte e e se tranforme  imte los aterile yprpiedads de quello qe bsorbió y amién permiténdle hacer crecer denuev esa patesi s dañaa s elmteial vuelve aserconsumid 
+2.Metamorfo absoluto:
 
-(olofunconamatriaes y e pued sostener como mximo 0 trnos y aa poer regenerar ua parte del cuerpo de resta durabiidad el mterialiua ala antidd de daño ecibido).
+Se trataría de una habilidad que consume el material de eleccion pero que le permite hacer que su cuerpo o una parte de el se transforme o imite los materiales y propiedades de aquello que absorbió y también permitiéndole hacer crecer de nuevo esa parte si es dañada si el material vuelve a ser consumido 
 
-3.Sin rstrosinvoz:
+(Solo funciona con materiales y se puede sostener como máximo 10 turnos y para poder regenerar una parte del cuerpo de resta durabilidad del material igual a la cantidad de daño recibido).
 
-Et habiidad e ermte l usurioan su presenca al punto deser pácticamnte inviible no por que nose le ea sino porque directamene su prsencia re reduc a 0  pesa deque está en el lugarescom s s prsencia ura la de unaa quev de paso 
+3.Sin rostro sin voz:
 
-Consume 14 unidade de fulgor po trno mnteid y se eb sperar la RC dl oponnt).
+Esta habilidad le permite al usuario anular su presencia al punto de ser prácticamente invisible no por que no se le vea si no por que directamente su presencia re reduce a 0 a pesar de que está en el lugar es como si su presencia fuera la de una hormiga que va de paso 
 
-                ────
-💎 `STADÍSTICAS`*(700 puntos areartr).
+(Consume 14 unidades de fulgor por turno mantenido y se debe superar la RC del oponente).
+
+                   ─────
+💎 `ESTADÍSTICAS:`
+*(700 puntos a repartir).*
 > .🖋️
 
-                ─────
-️`FERZA:`
-> 🖋️10 
-           ─────💎 `RSISTENCI:`
-> .️ 130
-                ─────♦️ VELCIDAD`
->.🖋️50
-                 ─────
-💎 `VELOCIDAD D TQUE FÍSCO:`
+                   ─────
+♦️ `FUERZA:`
+> .🖋️ 120 
+
+                   ─────
+💎 `RESISTENCIA:`
+> .🖋️ 130
+
+                   ─────
+♦️ `VELOCIDAD:`
+> .🖋️ 50
+
+                   ─────
+💎 `VELOCIDAD DE ATAQUE FÍSICO:`
 > .🖋️ 20
 
-                  ────
-♦️ `REFEJS:`
-> 🖋️ 10 
+                   ─────
+♦️ `REFLEJOS:`
+> .🖋️ 100 
 
-              ────💎`RSISTENCI DE CNDCIOE:`> .🖋️ 150 
+                   ─────
+💎 `RESISTENCIA DE CONDICIONES:`
+> .🖋️ 150 
 
-               ────
-♦ `PNTO DE FUGOR:`
-> .🖋 30
+                   ─────
+♦️ `PUNTOS DE FULGOR:`
+> .🖋️ 130
