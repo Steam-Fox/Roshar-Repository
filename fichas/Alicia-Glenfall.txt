@@ -31,6 +31,8 @@
 3. Destinos unidos:(si se suicida o es asesinada de su cuerpo surge una broma venenosa)
 La bruma venenosa tendrá la potencia sumada de todas las estadísticas en ese momento
 
+4. 《Éxtasis del Cadáver Corrupto》Es una habilidad que hace que mi fulgor sea venenoso para todo ser que intente absorber , consumir , robar, tocar, corromper  o interactuar con mi fulgor eso cuando la habilidad está en su estado de pasiva. Esa toxina no hace daño directo en su lugar produce -15 de RC por turno. Osea se divide en dos estados un estado de pasiva y un estado de activa si se activa ya comienzo a expulsar la toxina y la toxina genera -x reducción de RC donde x es la cantidad de fulgor que yo invertí y la toxina recubre mi cuerpo durante 10 turnos.
+
 
                    ─────
 💎 `ESTADÍSTICAS:`
