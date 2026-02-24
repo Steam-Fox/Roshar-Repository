@@ -70,9 +70,9 @@ La bruma venenosa tendrá la potencia sumada de todas las estadísticas en ese m
 
 📦 Inventario
 ╰─► ❲ 𝙳𝚒𝚗𝚎𝚛𝚘 ❳
-— 4🔷 (Azules) 
-— 0  💠 (Celestes)  
-— 0 🟪(Rosa)
+— 6🔷 (Azulez) 2 falanges
+— 1  💠 (Celestes)  
+— 01 🟪(Rosa)
 — 0 ⭐(Amarillo)
 — 0 🔸(Naranja)
 — 0 ♦️(Rojo)
